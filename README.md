@@ -10,7 +10,7 @@ Preprint at bioRxiv 2020.09.09.290791; doi: https://doi.org/10.1101/2020.09.09.2
 
 
 The files are organized in the following folders: 
-Ampvis2_RScrip: Microbiome analysis
+RScrip: Microbiome analysis using Ampvis2
 Metadata: otu table and metadata file
 Sponge_Barcoding: fasta files 
 
