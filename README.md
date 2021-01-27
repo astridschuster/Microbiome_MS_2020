@@ -6,7 +6,8 @@ Astrid Schuster, Brian W. Strehlow, Lisa Eckford-Soper, Rob McAllen, Donald E. C
 The effects of seasonal anoxia on the microbial community structure in demosponges in a marine lake (Lough Hyne, Ireland).
 
 mSphare: 
-Preprint at bioRxiv 2020.09.09.290791; doi: https://doi.org/10.1101/2020.09.09.290791
+
+Preprint at bioRxiv: 2020.09.09.290791; doi: https://doi.org/10.1101/2020.09.09.290791
 
 
 The files are organized in the following folders: 
